@@ -3,3 +3,4 @@
 **Name**: Allen
 **School**: NSS
 **Languages**: HTML, CSS, Javascript, Markdown
+**Favorite Color**: Teal
